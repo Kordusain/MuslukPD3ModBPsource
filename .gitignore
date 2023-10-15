@@ -9104,3 +9104,12 @@ Content/Weapons/Tools/ZipTies/T_ZipTIes_NMA.uasset
 Content/Weapons/WeaponMasterSkeleton/SK_WP_Master_Rig_Skeleton.uasset
 
 Binaries/Win64/EOSSDK-Win64-Shipping.dll
+Binaries/
+Config/
+Plugins/
+Source/
+Content/Gameplay/
+Content/Maps/
+Content/Meta/
+Content/UI/
+Content/WwiseAudio/
